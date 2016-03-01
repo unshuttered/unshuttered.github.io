@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.title {
+  width:500px;
+  height:200px;
+  position:absolute;
+  left:50%;
+  top:50%;
+  margin:-100px 0 0 -250px;
+  text-align: center;
+  vertical-align: central;
+  font-family: "Arial Black", sans-serif;
+  font-size: 50px;
+}
+
+.title .express {
+  color: #0A39A6;
+  font-style: normal;
+}
